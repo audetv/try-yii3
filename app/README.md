@@ -228,6 +228,6 @@ The code is statically analyzed with [Psalm](https://psalm.dev/). To run static 
 ## License
 
 The Yii application template is free software. It is released under the terms of the BSD License.
-Please see [`LICENSE`](./LICENSE.md) for more information.
+Please see [`LICENSE`](LICENSE.md) for more information.
 
 Maintained by [Yii Software](https://www.yiiframework.com/).

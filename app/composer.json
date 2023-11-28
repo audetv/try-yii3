@@ -4,14 +4,14 @@
     "description": "Yii 3 application template",
     "keywords": [
         "yii3",
-        "app"
+        ""
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
         "serve": [
             "Composer\\Config::disableProcessTimeout",
-            "./yii serve"
+            "yii serve"
         ],
         "test": "codecept run",
         "test-watch": "phpunit-watcher watch",
